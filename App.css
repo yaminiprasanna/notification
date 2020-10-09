@@ -1,0 +1,69 @@
+.App {
+  text-align:center;
+}
+.required {
+  color: red;
+}
+.btn1{
+  color:white;
+  background-color:rgb(51, 168, 214);
+  margin:7px;
+  
+}
+.NotificationCode{
+  size:50px;
+}
+.drop:hover{
+ color:black; 
+}
+.lbl1{
+  margin:14px
+}
+input[type=text], select {
+  border:none;
+  border-bottom: 1px solid black;
+ 
+}
+.btn-grp{
+  margin-right:-50%
+}
+.btn-primary{
+  border:none;
+  background:rgba(255, 255, 255, 0.89);
+  color:rgb(72, 171, 236)
+}
+.drop{
+    border-Radius: 4;
+    position:'relative';
+    background-Color:paper;
+    border: '1px solid #ced4da';
+    font-Size: 16;
+    padding: '10px 26px 10px 12px';
+    transition:'border-color', 'box-shadow';
+} 
+ .select:focus{
+ border:blue
+} 
+.Title {
+  box-sizing: border-box;
+background-attachment: fixed;
+  width: 100%;
+  height:40px;
+  font-size: 15px;
+  display: flex;
+  justify-content: left;
+  margin-bottom: 1em;
+  background-color: rgb(230, 235, 235);
+  color:black;
+}
+.Title1 {
+  box-sizing: border-box;
+  width: 100%;
+  height:30px;
+  
+  display: flex;
+  justify-content: left;
+  margin-bottom: 1em;
+  background-color: rgb(60, 166, 236);
+  
+}
